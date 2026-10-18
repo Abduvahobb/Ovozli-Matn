@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ovoz → Matn</string>
+    <string name="hint">Gapirsangiz, matn shu yerda paydo bo\'ladi</string>
+    <string name="speak">🎤 Gapirish</string>
+    <string name="stop">⏹ To\'xtatish</string>
+    <string name="copy">Nusxalash</string>
+    <string name="clear">Tozalash</string>
+    <string name="copied">Nusxalandi</string>
+    <string name="preparing">Tayyorlanmoqda…</string>
+    <string name="speak_now">Gapiring…</string>
+    <string name="processing">Matnga aylantirilmoqda…</string>
+    <string name="done">Tayyor</string>
+    <string name="permission_denied">Mikrofon uchun ruxsat berilmadi</string>
+    <string name="not_available">Bu qurilmada ovoz tanish xizmati yo\'q. Google ilovasini o\'rnating yoki yangilang.</string>
+    <string name="err_no_speech">Ovoz eshitilmadi, qayta urinib ko\'ring</string>
+    <string name="err_network">Internet bilan muammo</string>
+    <string name="err_generic">Xatolik (kod: %1$d)</string>
+</resources>
